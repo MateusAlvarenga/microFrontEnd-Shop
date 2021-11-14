@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+
+}
+
+.App iframe {
+  border: none;
+  width: 100%;
+}
+
+.products {
+  height: 800px;
+  min-height: fit-content;
+}
